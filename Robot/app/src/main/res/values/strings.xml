@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RFC WiFi</string>
+    <string name="title_activity_act_main">Robot WiFi</string>
+    <string name="title_activity_tab_painel">TabPainel</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">Settings</string>
+    <!--<string name="section_format">Hello World from section: %1$d</string>-->
+    <string name="host_ip_do_web_service">Web Server IP:</string>
+    <string name="status_conex_o">Status Conexão :</string>
+    <string name="msgSever">...</string>
+    <string name="mensagem_do_servidor">Mensagem do Servidor</string>
+    <string name="off_line">Off-Line</string>
+    <string name="_192_168_4_1">192.168.4.1</string>
+    <string name="conectar">Conectar</string>
+</resources>
